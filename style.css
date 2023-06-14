@@ -1,4 +1,11 @@
-header{
-    background-color: #eba3b5;
-  color: #FFFFFF;  
+:root{
+  --cor-de-fundo: #00030C;
+  --branco-principal:#FFFFFF;
+  --botao-azul:#167bf7;
+  --cinza-secundario:#C0C0C0;
+
+}body{
+  background-color: var(--cor-de-fundo);
+  
+
 }
